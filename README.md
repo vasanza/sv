@@ -1,5 +1,6 @@
-# sv
-#UART
+# SystemVerilog
+
+# UART
 
 ![image](https://github.com/vasanza/sv/assets/62295761/efee71cc-1dc9-4abb-8146-d4b73f88297c)
 
