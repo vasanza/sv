@@ -4,6 +4,10 @@
 
 ![image](https://github.com/vasanza/sv/assets/62295761/efee71cc-1dc9-4abb-8146-d4b73f88297c)
 
+# Schematic
+
+![image](https://github.com/vasanza/sv/assets/62295761/f49547a4-9e1d-4ce7-8977-ab27646f5415)
+
 
 Overview of UART Protocol
 UART is a hardware communication protocol that uses asynchronous serial communication with configurable speed. It is widely used for communication between microcontrollers and peripheral devices or computers. The UART protocol involves two main parts: the transmitter and the receiver.
